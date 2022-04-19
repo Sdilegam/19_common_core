@@ -18,3 +18,7 @@
 	path = 3rd_circle/minitalk
 	url = https://github.com/Sdilegam/minitalk.git
 	branch = main
+[submodule "3rd_circle/push_swap"]
+	path = 3rd_circle/push_swap
+	url = https://github.com/Sdilegam/push_swap.git
+	branch = main
