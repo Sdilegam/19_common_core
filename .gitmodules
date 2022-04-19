@@ -5,4 +5,4 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/Sdilegam/libft.git
-	branch = master
+	branch = main
