@@ -6,3 +6,7 @@
 	path = libft
 	url = https://github.com/Sdilegam/libft.git
 	branch = main
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/Sdilegam/get_next_line.git
+	branch = main
