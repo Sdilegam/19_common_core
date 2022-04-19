@@ -10,3 +10,7 @@
 	path = get_next_line
 	url = https://github.com/Sdilegam/get_next_line.git
 	branch = main
+[submodule "Minitalk"]
+	path = Minitalk
+	url = https://github.com/Sdilegam/Minitalk.git
+	branch = main
