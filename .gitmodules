@@ -1,16 +1,16 @@
 [submodule "so_long"]
-	path = so_long
+	path = third_circle/so_long
 	url = https://github.com/Sdilegam/so_long.git
 	branch = master
 [submodule "libft"]
-	path = libft
+	path = first_cirle/libft
 	url = https://github.com/Sdilegam/libft.git
 	branch = main
 [submodule "get_next_line"]
-	path = get_next_line
+	path = second_circle/get_next_line
 	url = https://github.com/Sdilegam/get_next_line.git
 	branch = main
 [submodule "Minitalk"]
-	path = Minitalk
+	path = third_circle/minitalk
 	url = https://github.com/Sdilegam/Minitalk.git
 	branch = main
