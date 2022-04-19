@@ -22,3 +22,7 @@
 	path = 3rd_circle/push_swap
 	url = https://github.com/Sdilegam/push_swap.git
 	branch = main
+[submodule "makefile_template"]
+	path = makefile_template
+	url = https://github.com/Sdilegam/makefile_template.git
+	branch = main
