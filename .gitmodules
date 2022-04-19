@@ -1,0 +1,8 @@
+[submodule "1st_circle/libft"]
+	path = 1st_circle/libft
+	url = https://github.com/Sdilegam/libft.git
+	branch = main
+[submodule "3rd_circle/so_long"]
+	path = 3rd_circle/so_long
+	url = https://github.com/Sdilegam/so_long.git
+	branch = master
