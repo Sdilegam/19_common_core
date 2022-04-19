@@ -2,6 +2,14 @@
 	path = 1st_circle/libft
 	url = https://github.com/Sdilegam/libft.git
 	branch = main
+[submodule "2rd_circle/get_next_line"]
+	path = 2rd_circle/get_next_line
+	url = https://github.com/Sdilegam/get_next_line.git
+	branch = main
+[submodule "2rd_circle/ft_printf"]
+	path = 2rd_circle/ft_printf
+	url = https://github.com/Sdilegam/ft_printf.git
+	branch = main
 [submodule "3rd_circle/so_long"]
 	path = 3rd_circle/so_long
 	url = https://github.com/Sdilegam/so_long.git
@@ -9,8 +17,4 @@
 [submodule "3rd_circle/minitalk"]
 	path = 3rd_circle/minitalk
 	url = https://github.com/Sdilegam/minitalk.git
-	branch = main
-[submodule "2rd_circle/get_next_line"]
-	path = 2rd_circle/get_next_line
-	url = https://github.com/Sdilegam/get_next_line.git
 	branch = main
