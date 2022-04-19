@@ -2,3 +2,7 @@
 	path = so_long
 	url = https://github.com/Sdilegam/so_long.git
 	branch = master
+[submodule "libft"]
+	path = libft
+	url = https://github.com/Sdilegam/libft.git
+	branch = master
