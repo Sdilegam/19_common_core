@@ -6,3 +6,11 @@
 	path = 3rd_circle/so_long
 	url = https://github.com/Sdilegam/so_long.git
 	branch = master
+[submodule "3rd_circle/minitalk"]
+	path = 3rd_circle/minitalk
+	url = https://github.com/Sdilegam/minitalk.git
+	branch = main
+[submodule "2rd_circle/get_next_line"]
+	path = 2rd_circle/get_next_line
+	url = https://github.com/Sdilegam/get_next_line.git
+	branch = main
