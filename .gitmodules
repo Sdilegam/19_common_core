@@ -26,3 +26,6 @@
 	path = makefile_template
 	url = https://github.com/Sdilegam/makefile_template.git
 	branch = main
+[submodule "4th_circle/Philosophers"]
+	path = 4th_circle/Philosophers
+	url = https://www.github.com/Sdilegam/Philosophers
