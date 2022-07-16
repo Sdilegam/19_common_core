@@ -22,10 +22,11 @@
 	path = 3rd_circle/push_swap
 	url = https://github.com/Sdilegam/push_swap.git
 	branch = main
+[submodule "4th_circle/Philosophers"]
+	path = 4th_circle/Philosophers
+	url = https://www.github.com/Sdilegam/Philosophers
+	branch = main
 [submodule "makefile_template"]
 	path = makefile_template
 	url = https://github.com/Sdilegam/makefile_template.git
 	branch = main
-[submodule "4th_circle/Philosophers"]
-	path = 4th_circle/Philosophers
-	url = https://www.github.com/Sdilegam/Philosophers
