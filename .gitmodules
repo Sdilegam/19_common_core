@@ -1,28 +1,28 @@
-[submodule "1st_circle/libft"]
+[submodule "libft"]
 	path = 1st_circle/libft
 	url = https://github.com/Sdilegam/libft.git
 	branch = main
-[submodule "2rd_circle/get_next_line"]
+[submodule "/get_next_line"]
 	path = 2rd_circle/get_next_line
 	url = https://github.com/Sdilegam/get_next_line.git
 	branch = main
-[submodule "2rd_circle/ft_printf"]
+[submodule "ft_printf"]
 	path = 2rd_circle/ft_printf
 	url = https://github.com/Sdilegam/ft_printf.git
 	branch = main
-[submodule "3rd_circle/so_long"]
+[submodule "so_long"]
 	path = 3rd_circle/so_long
 	url = https://github.com/Sdilegam/so_long.git
 	branch = master
-[submodule "3rd_circle/minitalk"]
+[submodule "minitalk"]
 	path = 3rd_circle/minitalk
 	url = https://github.com/Sdilegam/minitalk.git
 	branch = main
-[submodule "3rd_circle/push_swap"]
+[submodule "push_swap"]
 	path = 3rd_circle/push_swap
 	url = https://github.com/Sdilegam/push_swap.git
 	branch = main
-[submodule "4th_circle/Philosophers"]
+[submodule "Philosophers"]
 	path = 4th_circle/Philosophers
 	url = https://www.github.com/Sdilegam/Philosophers
 	branch = main
@@ -30,7 +30,7 @@
 	path = makefile_template
 	url = https://github.com/Sdilegam/makefile_template.git
 	branch = main
-[submodule "4th_circle/minishell"]
+[submodule "minishell"]
 	path = 4th_circle/minishell
 	url = https://github.com/Sdilegam/minishell
 	branch = main
