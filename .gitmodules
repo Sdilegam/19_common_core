@@ -33,3 +33,4 @@
 [submodule "4th_circle/minishell"]
 	path = 4th_circle/minishell
 	url = https://github.com/Sdilegam/minishell
+	branch = main
